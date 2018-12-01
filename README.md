@@ -6,12 +6,12 @@ Data ontained fron Open TG-GATEs (https://toxico.nibiohn.go.jp/english/)
 
 Project report, TODO
 
-Using *in vitro* human liver cell gene expression, 24 hr.
+Using *in vitro* human liver cell gene expression, 24 hr.,\
 main.py, one run on SVM, LOO-CV;\
 script.py, generating quantitative result, varying #features, by chi2 kbest;\
 roc_cv.py, 5-fold CV, ROC analysis.
 
-Using *in vitro* human liver cell gene expression, 8 hr.
+Using *in vitro* human liver cell gene expression, 8 hr.,\
 main8hr.py, one run on SVM, LOO-CV;\
 script8hr.py, generating quantitative result, varying #features, by chi2 kbest;\
 roc_cv8hr.py, 5-fold CV, ROC analysis.
