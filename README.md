@@ -12,9 +12,9 @@ script.py, generating quantitative result, varying #features, by chi2 kbest;\
 roc_cv.py, 5-fold CV, ROC analysis.
 
 Using *in vitro* human liver cell gene expression, 8 hr.
-main.py, one run on SVM, LOO-CV;\
-script_8hr.py, generating quantitative result, varying #features, by chi2 kbest;\
-roc_cv_8hr.py, 5-fold CV, ROC analysis.
+main8hr.py, one run on SVM, LOO-CV;\
+script8hr.py, generating quantitative result, varying #features, by chi2 kbest;\
+roc_cv8hr.py, 5-fold CV, ROC analysis.
 
 References:\
 [1] IARC, https://www.iarc.fr \
