@@ -19,4 +19,5 @@ roc_cv8hr.py, 5-fold CV, ROC analysis.
 
 References:\
 [1] IARC, https://www.iarc.fr \
+[2] CPDB, https://toxnet.nlm.nih.gov/newtoxnet/cpdb.htm \
 TODO
