@@ -17,7 +17,7 @@ main8hr.py, one run on SVM, LOO-CV;\
 script8hr.py, generating quantitative result, varying #features, by chi2 kbest;\
 roc_cv8hr.py, 5-fold CV, ROC analysis.
 
-feaOL.py, find number of intersected gene from the gene expression data, 8hr vs. 24hr.\
+feaOL.py, find the number of intersected gene from the gene expression data, 8hr vs. 24hr.\
 
 References:\
 [1] IARC, https://www.iarc.fr \
